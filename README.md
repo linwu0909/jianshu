@@ -1,1 +1,1 @@
-react+react-redux+react-router+redux+redux-thunk
+react16.4.0+react-redux+react-router+redux4.0+redux-thunk
